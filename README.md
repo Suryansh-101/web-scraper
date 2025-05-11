@@ -26,8 +26,7 @@ Make sure you have Python 3.7+ installed.
 1. **Clone the repository (or copy the script):**
 
 ```bash
-git clone https://github.com/your-username/web-scraper-streamlit.git
-cd web-scraper-streamlit
+https://github.com/Suryansh-101/web-scraper/blob/main/web_scraper.py
 ```
 
 2. **Install the required libraries:**
