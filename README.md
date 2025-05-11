@@ -30,3 +30,35 @@ git clone https://github.com/your-username/web-scraper-streamlit.git
 cd web-scraper-streamlit
 ```
 
+2. **Install the required libraries:**
+
+```bash
+pip install streamlit requests beautifulsoup4
+```
+
+3. **Run the app:**
+
+```bash
+streamlit run web_scraper.py
+```
+
+🌍 Example URLs to Test
+
+Here are a few sites you can safely use for testing:
+
+1    https://en.wikipedia.org/wiki/Cat
+
+2    https://pixabay.com/images/search/nature/
+
+3    https://unsplash.com/s/photos/mountains
+
+
+🙌 Credits
+
+Built using:
+
+    Streamlit
+
+    BeautifulSoup
+
+    Requests
